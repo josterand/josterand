@@ -1,5 +1,8 @@
-### Hi there 👋
+<div align="center">
+:bulb: Enable Github's white/light theme for a great look :bulb:
+</div>
 
+### Hi there 👋
 Hi, i'm Josterand — `16 y.o` 
 
 I'm an Indonesian :indonesia: and an Arknights player since 2021
