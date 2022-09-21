@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hi, i'm Josterand — `16 y.o` 
 
-I'm Indonesian and an Arknights player since 2021
+I'm Indonesian — An Arknights player since 2021
 
 :book: I’m currently learning:
 <br>
