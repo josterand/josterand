@@ -27,7 +27,7 @@ I'm an Indonesian :indonesia: and an Arknights player since 2021
 ![josterand's Github activity graph](https://activity-graph.herokuapp.com/graph?username=josterand&bg_color=FBFAF6&color=1C2049&line=880E3D&point=1C2049&area=true&hide_border=true&hide_title=true&radius=4&area_color=1C2049)
 
 <details>
-<summary>Credits:</summary>
+<summary>Credits</summary>
 
 - My profile photo: [Artwork](https://www.pixiv.net/en/artworks/78949689) by [QuAn_](https://www.pixiv.net/en/users/6657532 )
 - My profile statistics badges: 
