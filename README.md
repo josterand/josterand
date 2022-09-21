@@ -1,5 +1,5 @@
 <div align="center">
-:bulb: Enable Github's white/light theme for a great look :bulb:
+`:bulb: Enable Github's white/light theme for a great look :bulb:`
 </div>
 
 ### Hi there 👋
