@@ -4,12 +4,12 @@ Hi, i'm Josterand — `16 y.o`
 
 I'm an Indonesian :indonesia: and an Arknights Player
 
-:book: I’m currently learning
+:book: I’m currently learning:
 <br>
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-:wrench: The tools I use
+:wrench: The tools I use:
 <br>
 
 ![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
@@ -17,7 +17,7 @@ I'm an Indonesian :indonesia: and an Arknights Player
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-:chart_with_upwards_trend: My Github stats
+:chart_with_upwards_trend: My Github stats:
 <br>
 
 ![josterand's GitHub stats](https://github-readme-stats.vercel.app/api?username=josterand&count_private=true&show_icons=true&bg_color=#383A5C&title_color=#F6F0F0&title_color=#F6F0F0&icon_color=#CD515C&custom_title=Contribution%20Stats)
