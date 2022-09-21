@@ -1,7 +1,7 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=josterand&style=flat-square)
 
-I'm Josterand, `16 y.o`, Indonesian :indonesia:
+Hi, i'm Josterand — `16 y.o` 
+I'm an Indonesian :indonesia: and an Arknights Player
 
 :book: I’m currently learning
 <br>
