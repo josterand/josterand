@@ -23,10 +23,6 @@ Indonesian — An Arknights player since 2021
     <img width="48%" alt="josterand's Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=josterand&theme=dark&hide_border=true&background=FBFAF6&ring=880E3D&fire=880E3D&date=1C2049&currStreakLabel=880E3D&sideNums=1C2049&currStreakNum=1C2049&sideLabels=880E3D&stroke=1C2049&dates=1C2049">
 </p>
 
-<p align="center">
-    <img width="70%" alt="josterand's Github Streak" src="https://activity-graph.herokuapp.com/graph?username=josterand&bg_color=FBFAF6&color=1C2049&line=880E3D&point=1C2049&area=true&hide_border=true&hide_title=true&radius=4&area_color=1C2049">
-</p>
-
 <details>
 <summary>Credits</summary>
 
