@@ -15,6 +15,6 @@ Indonesian — Arknights player since 2021 (In hiatus)
 <details>
 <summary>Credits</summary>
 
-  - [明日方舟头像8](https://www.pixiv.net/en/artworks/93388262) by [QuAn_](https://www.pixiv.net/users/6657532) on [Pixiv](pixiv.net/en) 
+  - [明日方舟头像8](https://www.pixiv.net/en/artworks/93388262) by [QuAn_](https://www.pixiv.net/users/6657532) on [Pixiv](https://www.pixiv.net/en) 
   - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra)
 </details>
