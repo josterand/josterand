@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm josterand (17). I enjoys reading books, especially novels and manga. Often listen to music and spend a lot of time at home (homebody). I also like drinking coffee. 
+I'm josterand (17). Enjoys reading books, especially novels and manga. Often listen to music and spend a lot of time at home (homebody). I also like drinking coffee. 
 
 > An Arknights player since 2021 (In hiatus). 
 
