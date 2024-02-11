@@ -3,9 +3,6 @@ I'm josterand (17). Enjoys reading books, especially novels and manga. Often lis
 
 > An Arknights player since 2021 (In hiatus). 
 
-### Currently learning:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
 ### GitHub stats:
 ![josterand-stats](https://github-readme-stats.vercel.app/api?username=josterand&theme=transparent&show_icons=true&custom_title=josterand's%20GitHub%20stats&hide_border=true&count_private=true&text_bold=true&disable_animations=true)
 ![josterand-streak-graph](https://github-readme-streak-stats.herokuapp.com?user=josterand&theme=transparent&hide_border=true&disable_animations=true)
