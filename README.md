@@ -1,7 +1,6 @@
 # Hi there 👋
 I'm josterand (18). Enjoys reading books, especially novels and manga. Often listen to music and spend a lot of time at home (homebody). I also like drinking coffee. 
 
-> An Arknights player since 2021 (In hiatus). 
 
 ### GitHub stats:
 ![josterand-stats](https://github-readme-stats.vercel.app/api?username=josterand&theme=transparent&show_icons=true&custom_title=josterand's%20GitHub%20stats&hide_border=true&count_private=true&text_bold=true&disable_animations=true)
