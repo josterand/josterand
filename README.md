@@ -17,7 +17,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### Stats
-![Visitor Stats](https://visitor-badge.laobi.icu/badge?page_id=josterand)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=josterand)
 
 #### Contacts & Socials
