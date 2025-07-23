@@ -1,8 +1,8 @@
 # Hi, There!
-👋 Hi, I’m Jonathan Steve
-🎓 An undergraduate student in Telecommunication Engineering at Telkom University
-💻 Interested in backend development, computer technology, open-source softwares, and writing
-📷 Hobbyist photographer
+- 👋 Hi, I’m Jonathan Steve
+- 🎓 An undergraduate student in Telecommunication Engineering at Telkom University
+- 💻 Interested in backend development, computer technology, open-source softwares, and writing
+- 📷 Hobbyist photographer
 
 #### Languages and Frameworks
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
