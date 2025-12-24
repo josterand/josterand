@@ -34,4 +34,6 @@ I'm **Jonathan Steve**, an undergraduate student in **Telecommunication Engineer
 
 <br/>
 
+---
+
 ![Profile Visits](https://komarev.com/ghpvc/?username=josterand&color=00ADD8&style=flat-square&label=Profile%20Visits)
