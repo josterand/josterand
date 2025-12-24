@@ -32,8 +32,6 @@ I'm **Jonathan Steve**, an undergraduate student in **Telecommunication Engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josterand/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:josterand@outlook.com)
 
-<br/>
-
 ---
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=josterand&color=00ADD8&style=flat-square&label=Profile%20Visits)
